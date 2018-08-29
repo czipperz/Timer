@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2195f2</color>
+    <color name="colorPrimaryDark">#0068bf</color>
+    <color name="colorAccent">#6ec5ff</color>
+
+
+    <!--
+    <color name="cardBackground">#999</color>
+    <color name="cardForeground">#FFF</color>
+    <color name="buttonForeground">@color/colorPrimary</color>
+    <color name="buttonBackground">#FFF</color>
+    -->
+
+    <color name="cardBackground">#FFF</color>
+    <color name="cardForeground">#000</color>
+    <color name="buttonForeground">#000</color>
+    <color name="buttonBackground">#00000000</color>
+</resources>

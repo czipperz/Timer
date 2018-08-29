@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="timerCardHeight">200dp</dimen>
+    <dimen name="stopwatchCardHeight">130dp</dimen>
+    <dimen name="cardPadding">4dp</dimen>
+    <dimen name="cardTextSize">50sp</dimen>
+    <dimen name="cardTimeSize">30sp</dimen>
+    <dimen name="timeMarginTop">-8dp</dimen>
+    <dimen name="progressBarMarginTop">7dp</dimen>
+    <dimen name="buttonPadding">10dp</dimen>
+    <dimen name="buttonMargin">16dp</dimen>
+    <dimen name="fab_space">80dp</dimen>
+    <dimen name="buttonSize">36dp</dimen>
+</resources>
